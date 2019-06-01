@@ -2,12 +2,12 @@
 
 Create new .env or rename .env.example file and for connection use these:
 
-`DB_CONNECTION=mongodb`
-`DB_HOST=localhost`
-`DB_PORT=27017`
-`DB_DATABASE=InternetForum //or your mongoDB created DB`
-`DB_USERNAME=`
-`DB_PASSWORD=`
+DB_CONNECTION=mongodb
+DB_HOST=localhost
+DB_PORT=27017
+DB_DATABASE=InternetForum //or your mongoDB created DB
+DB_USERNAME=
+DB_PASSWORD=
 
 
 - Open the console and cd your project root directory
